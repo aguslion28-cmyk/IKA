@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Feature\\AuthenticationTest::test_alumni_can_register_and_is_pending":7},"times":{"Tests\\Feature\\AuthenticationTest::test_alumni_can_register_and_is_pending":0.197,"Tests\\Feature\\AuthenticationTest::test_admin_dashboard_requires_admin":0.025,"Tests\\Feature\\AuthenticationTest::test_pending_alumni_cannot_open_alumni_dashboard":0.006}}
